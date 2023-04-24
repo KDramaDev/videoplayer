@@ -1,0 +1,68 @@
+{
+  "sources": [
+    {
+      "file": "https://bigf.bigo.sg/asia_live/V4s6/0V7YVR.mp4?dl=0",
+      "label": "4k"
+    },
+    {
+      "file": "https://bigf.bigo.sg/asia_live/V4s6/0V7YVR.mp4?dl=0",
+      "label": "1080p"
+    },
+    {
+      "file": "https://bigf.bigo.sg/asia_live/V4s6/0V7YVR.mp4",
+      "label": "720p"
+    },
+    {
+      "file": "https://bigf.bigo.sg/asia_live/V4s6/0V7YVR.mp4",
+      "label": "480p"
+    },
+    {
+      "file": "https://bigf.bigo.sg/asia_live/V4s6/0V7YVR.mp4",
+      "label": "Auto",
+      "default": true
+    }
+  ],
+  "captions": [
+    {
+      "file": "https://res.cloudinary.com/do1zdkwaj/raw/upload/v1680686529/Blood/Inside/Inside.2023.en_cdm2sg.srt",
+      "label": "English",
+      "kind": "captions",
+      "default": true
+    },
+    {
+      "file": "https://res.cloudinary.com/do1zdkwaj/raw/upload/v1680686529/Blood/Inside/Inside.2023.km_a0mopr.srt",
+      "label": "ខ្មែរ",
+      "kind": "captions"
+    },
+    {
+      "file": "https://res.cloudinary.com/do1zdkwaj/raw/upload/v1680686528/Blood/Inside/Inside.2023.th_quqggy.srt",
+      "label": "Thai",
+      "kind": "captions"
+    },
+    {
+      "file": "https://res.cloudinary.com/do1zdkwaj/raw/upload/v1680686528/Blood/Inside/Inside.2023.kr_a7ph90.srt",
+      "label": "Korea",
+      "kind": "captions"
+    },
+    {
+      "file": "https://res.cloudinary.com/do1zdkwaj/raw/upload/v1680686528/Blood/Inside/Inside.2023.ar_ctlkw4.srt",
+      "label": "Arabic",
+      "kind": "captions"
+    },
+    {
+      "file": "https://res.cloudinary.com/do1zdkwaj/raw/upload/v1680686528/Blood/Inside/Inside.2023.id_de3dhy.srt",
+      "label": "Indonesia",
+      "kind": "captions"
+    },
+    {
+      "file": "https://res.cloudinary.com/do1zdkwaj/raw/upload/v1680686528/Blood/Inside/Inside.2023.vn_tleusl.srt",
+      "label": "Vietnamese",
+      "kind": "captions"
+    },
+    {
+      "file": "https://res.cloudinary.com/do1zdkwaj/raw/upload/v1680686528/Blood/Inside/Inside.2023.ml_uzyzuw.srt",
+      "label": "Malay",
+      "kind": "captions"
+    }
+  ]
+}
